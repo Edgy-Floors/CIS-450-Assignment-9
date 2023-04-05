@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * Cloudy.cs
+ * Assignment 9
+ * This script is a concrete state extending the weather interface. This is the cloudy state, setting the skybox to clouds.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

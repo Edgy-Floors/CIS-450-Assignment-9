@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * Nighttime.cs
+ * Assignment 9
+ * This script is a concrete state extending the weather interface. This is the nighttime state, setting the skybox to night/
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,3 +1,10 @@
+/*
+ * EJ Flores
+ * WeatherController.cs
+ * Assignment 9
+ * This script acts as the client for the Weather states. It handles the various states and how they interact with each other.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
